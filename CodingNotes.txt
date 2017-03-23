@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+=======
+My Code Reference Guide for Raspberry Pi(shell script/python)
+
+# to load the OS img onto the SD card using terminal:
+	use "df" command to see all the connected devices
+	then use "dd bs=1m if=nameOfInputFile of=outputDevice"
+
+
+>>>>>>> edit
+'~' = home directory
+'.' = run
+
+
+'cat' = view contents of file
+
